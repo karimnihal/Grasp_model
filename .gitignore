@@ -1,4 +1,4 @@
 data/
 .venv/
 preprocessed_ggcnn/
-*.path
+*.pth
